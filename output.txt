@@ -1,0 +1,10 @@
+C:\Users\User\AppData\Local\Programs\Python\Python37\python.exe C:/Users/User/Recent/enigma
+Do you have a setting for the machine?(y/n):y
+Give your 3 letter setting( *small letter* ):uut
+Give your msg/code( *small letter* ):You have to come today.
+
+input: You have to come today.
+
+output: Ywk escw yl suoo hibcn.
+
+Process finished with exit code 0
